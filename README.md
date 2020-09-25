@@ -3,6 +3,6 @@ The Realm of AI - Applied Artificial Intelligence for Everyone. There are so man
 
 
 ### Learning Paths
-Computer Vision Learning path
+**[WIP]** Computer Vision Learning path
 
 ![Computer Vision](https://github.com/Aravindkumar-Rajendran/TheRealmofAI/blob/master/Learning%20Path/CV.png)
